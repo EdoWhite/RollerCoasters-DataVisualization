@@ -2,7 +2,7 @@
   <img width="70%" height="70%"src="/assets/coaster2.jpg">
 </p>
 
-# RollerCoasters-DataVisualization
+# Roller Coasters: Game versus Reality
 This is a Data Visualization projects regarding real and game roller coaster. The goal is to analyze real existing ride from a technical and spatial-temporal perspective (how rides they are distributed in the country, how they evolved, …) and then compare real rides with coasters created in Planet Coaster game. At the end we will understand if game rides can exists in real life.
 
 ## **Involved Tasks:**
