@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="70%" height="70%"src="/assets/coaster.jpg">
+  <img width="70%" height="70%"src="/assets/coaster2.jpg">
 </p>
 
 # RollerCoasters-DataVisualization
