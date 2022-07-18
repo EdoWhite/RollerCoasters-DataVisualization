@@ -9,7 +9,7 @@ Planet Coaster is a famous computer and console video game developed by Frontier
 
 When the player builds a new ride, this ride is tested by the artificial intelligence of the game, that simulates real riders, and then a final rating is shown. The rating system consists of three metrics: Excitement, Fear and Nausea, all this metrics must be in a certain interval to classify a ride as "good" in the game.
 
-## Involved Tasks:
+## Involved Tasks
 - **Analyze the real rides** present in the US from a **technical and spatial-temporal perspective** (how they are distributed in the country, how they evolved, …).
 - **Analyze the game created rides** and understand what are the **factors that influence the most the rating**: how to build a good ride?
 - **Compare the game created rides with real life existing rides** and understand the differences: can game rides exist in reality?
